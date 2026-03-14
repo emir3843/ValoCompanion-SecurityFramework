@@ -11,6 +11,7 @@ Tek giriş noktasından **güvenlik modülleri** (Test Test) ve **Companion UI**
 - **Companion UI**: Valorant tarzı menü (login, inject demo, on/off) – `game_memory_reader` klasöründe.
 - **Self-integrity**: Uygulama kendi exe/.py dosyasının hash’ini baseline ile karşılaştırır.
 - **Güncelleme**: Uzak `version.txt` ve `app.zip` ile otomatik güncelleme.
+-**AI Kullanımı**: Projenin çoğu öğrenmek amacıyla yapılmış ve yapay zeka kullanılmıştır.
 
 ---
 
